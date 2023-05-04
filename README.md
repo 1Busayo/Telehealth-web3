@@ -1,0 +1,2 @@
+# ClEAFI App
+CLEAFI contract address 0x0824eac8a2D73f3D136e92070884D8126f1b55e0
